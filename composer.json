@@ -1,5 +1,5 @@
 {
-  "name": "tajawal/php-ini-parser",
+  "name": "autopilot-accounting/php-ini-parser",
   "description": "A Zend_Config_Ini like parser for .ini files.",
   "type": "library",
   "license": "MIT",
